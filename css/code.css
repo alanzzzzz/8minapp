@@ -1,0 +1,43 @@
+body{
+    background: url(../image/code/03.jpg) no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 100vh;
+}
+.logo{
+    position: absolute;
+    left: .15rem;
+    top: .18rem;
+    width: 1.2rem;
+}
+.title{
+    height: 40vh;
+    background: url("../image/code/title.png") no-repeat;
+    background-size: 80vw;
+    background-position: center center;
+}
+.swiper-container{
+    height: 52vh;
+    width: 100vw;
+}
+.swiper-slide{
+    background: white;
+    border-radius: 10px;
+}
+.text{
+    font-size: .36rem;
+    height: 1.1rem;
+}
+.code{
+    width: 3.35rem;
+}
+.code+p{
+    font-size: .34rem;
+}
+.blue{
+    color: #188fe3;
+}
+.gary{
+    color: #999;
+    font-size: .3rem;
+}
